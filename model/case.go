@@ -3,10 +3,11 @@ package model
 import (
 	"bufio"
 	"fmt"
-	"gotest/util"
 	"os"
 	"regexp"
 	"strings"
+
+	"github.com/FengGeSe/gotest/util"
 )
 
 type CaseSuite struct {

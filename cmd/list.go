@@ -1,10 +1,11 @@
 package cmd
 
 import (
-	"gotest/util"
 	"strings"
 
 	"github.com/spf13/cobra"
+
+	"github.com/FengGeSe/gotest/util"
 )
 
 var listCmd = &cobra.Command{

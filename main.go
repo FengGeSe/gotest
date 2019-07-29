@@ -1,6 +1,6 @@
 package main
 
-import "gotest/cmd"
+import "github.com/FengGeSe/gotest/cmd"
 
 func main() {
 	cmd.Execute()

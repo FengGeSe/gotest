@@ -1,4 +1,4 @@
-module gotest
+module github.com/FengGeSe/gotest
 
 go 1.12
 

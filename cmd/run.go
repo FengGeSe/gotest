@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"gotest/util"
+	"github.com/FengGeSe/gotest/util"
 )
 
 var runCmd = &cobra.Command{

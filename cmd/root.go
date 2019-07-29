@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"gotest/model"
-	"gotest/util"
+	"github.com/FengGeSe/gotest/model"
+	"github.com/FengGeSe/gotest/util"
 )
 
 var (
